@@ -1,5 +1,5 @@
-## 👋About me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&pause=1000&color=F7B41E&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%8BHi!+I'm+a+backend+engineer.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&pause=1000&color=F7B41E&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%8BHi!+I'm+a+backend+engineer.)](https://git.io/typing-svg)
+
 
 <!--
 **Lcwei-0708/Lcwei-0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
