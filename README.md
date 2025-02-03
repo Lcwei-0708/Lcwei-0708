@@ -3,4 +3,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcwei-0708&show_icons=true&theme=gruvbox&bg_color=FAEED438)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcwei-0708&show_icons=true&theme=gruvbox&bg_color=FAEED438)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcwei-0708&show_icons=true&theme=gruvbox&bg_color=FAEED438layout=compact&langs_count=7)
