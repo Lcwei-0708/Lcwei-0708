@@ -8,4 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lcwei-0708&show_icons=true&theme=gruvbox&bg_color=FAEED438&layout=compact&langs_count=8&card_width=350" />
 </a>
 
-![GitHub Snake](https://raw.githubusercontent.com/Lcwei-0708/Lcwei-0708/main/dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lcwei-0708/Lcwei-0708/main/dist/github-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Lcwei-0708/Lcwei-0708/main/dist/github-snake.svg" />
+</picture>
