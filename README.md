@@ -10,5 +10,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lcwei-0708/Lcwei-0708/main/dist/github-snake-dark.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Lcwei-0708/Lcwei-0708/main/dist/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Lcwei-0708/Lcwei-0708/main/dist/github-snake-dark.svg" />
 </picture>
