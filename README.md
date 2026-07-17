@@ -1,13 +1,22 @@
 ## 👋About me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&duration=3000&pause=1000&color=F7B41E&vCenter=true&random=true&width=435&lines=Hi!+I'm+a+backend+engineer.)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 style="height: 200px" align="center" src="https://github-stats-extended-xi.vercel.app/api?username=Lcwei-0708&show_icons=true&theme=gruvbox&bg_color=FAEED438&rank_icon=percentile&card_width=400" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 style="height: 200px" align="center" src="https://github-stats-extended-xi.vercel.app/api/top-langs/?username=Lcwei-0708&theme=gruvbox&bg_color=FAEED438&layout=compact&langs_count=8&card_width=380" />
-</a>
-
+<div style="display: flex; justify-content: center; gap: 20px;">  
+  <!-- Dark Mode -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img style="height: 200px" src="https://github-stats-extended-xi.vercel.app/api?username=Lcwei-0708&show_icons=true&rank_icon=percentile&card_width=420&theme=ayu-mirage#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img style="height: 200px" src="https://github-stats-extended-xi.vercel.app/api/top-langs/?username=Lcwei-0708&layout=compact&langs_count=8&card_width=400&theme=ayu-mirage#gh-dark-mode-only" />
+  </a>
+  <!-- Light Mode -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="https://github-stats-extended-xi.vercel.app/api?username=Lcwei-0708&show_icons=true&rank_icon=percentile&card_width=400&theme=flag-india#gh-light-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="https://github-stats-extended-xi.vercel.app/api/top-langs/?username=Lcwei-0708&layout=compact&langs_count=8&card_width=380&theme=flag-india#gh-light-mode-only" />
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lcwei-0708/Lcwei-0708/main/dist/github-snake-dark.svg" />
