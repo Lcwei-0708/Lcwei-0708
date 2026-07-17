@@ -3,17 +3,17 @@
 
 <div style="display: flex; justify-content: center; gap: 20px;">  
   <!-- Dark Mode -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <a href="https://github-stats-extended-xi.vercel.app/api?username=Lcwei-0708&show_icons=true&rank_icon=percentile&card_width=400&theme=ayu-mirage#gh-dark-mode-only">
     <img style="height: 200px" src="https://github-stats-extended-xi.vercel.app/api?username=Lcwei-0708&show_icons=true&rank_icon=percentile&card_width=400&theme=ayu-mirage#gh-dark-mode-only" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <a href="https://github-stats-extended-xi.vercel.app/api/top-langs/?username=Lcwei-0708&layout=compact&langs_count=8&card_width=380&theme=ayu-mirage#gh-dark-mode-only">
     <img style="height: 200px" src="https://github-stats-extended-xi.vercel.app/api/top-langs/?username=Lcwei-0708&layout=compact&langs_count=8&card_width=380&theme=ayu-mirage#gh-dark-mode-only" />
   </a>
   <!-- Light Mode -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <a href="https://github-stats-extended-xi.vercel.app/api?username=Lcwei-0708&show_icons=true&rank_icon=percentile&card_width=400&theme=flag-india#gh-light-mode-only">
     <img style="height: 200px" src="https://github-stats-extended-xi.vercel.app/api?username=Lcwei-0708&show_icons=true&rank_icon=percentile&card_width=400&theme=flag-india#gh-light-mode-only" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <a href="https://github-stats-extended-xi.vercel.app/api/top-langs/?username=Lcwei-0708&layout=compact&langs_count=8&card_width=380&theme=flag-india#gh-light-mode-only">
     <img style="height: 200px" src="https://github-stats-extended-xi.vercel.app/api/top-langs/?username=Lcwei-0708&layout=compact&langs_count=8&card_width=380&theme=flag-india#gh-light-mode-only" />
   </a>
 </div>
